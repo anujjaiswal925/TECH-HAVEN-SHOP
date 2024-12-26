@@ -1,0 +1,33 @@
+.pderroralldiv{margin: 6rem  0;}
+.pderrortextdiv{margin: 4rem 0 0 0;}
+.pderrorcartdiv{display: inline-block; padding-left: 2rem;}
+
+
+
+
+.pdalldiv{margin: 2rem 0;}
+.pdimgdiv{text-align: center; margin-top: 3rem;}
+.pdimg{max-width: 45%; height: auto; display: inline-block; padding: auto; }
+.pdtextdiv{ line-height: 1.5rem; margin: 3rem 0 0 0;}
+.pdh1{font-size: 1.6rem; margin-bottom:1rem ;}
+.pdstardiv i{text-align: start; font-size: 1.4rem; padding: 0 10px 0 0; margin-bottom: 1rem; color:  #f8c12bfd;  margin-bottom:1rem ;}
+.pddescription{margin: 0;  margin-bottom:2rem; text-align: justify;}
+.pdprice{padding: 0; line-height: 0; margin-bottom: 1rem; font-size: 1.1rem;}
+.pdbutton{margin: 1.5rem 1.5rem 0 0 ; width: 30%; background-color:#dfc784fd ; }
+.pdcheckout{margin: 1.5rem 1.5rem 0 0 ; width: 30%; background-color:#dfc784fd ; border: 2px solid; padding: 2px 30px; color: #000;}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .pderrortextdiv p{align-items: center;}
+    .pdalldiv{margin: 0rem 0;}
+    .pdimgdiv{text-align: center; margin-top: 7rem;}
+    .pdimg{max-width: 60%; }
+}
+@media screen and (min-width:576px) and (max-width:767px) {
+    .pdimgdiv{ margin-top: 0rem;}
+    .pdimg{max-width: 30%;  }
+}
+@media screen and (min-width:360px) and (max-width:575px) {
+    .pdalldiv{margin: 0;}
+    .pdh1{font-size: 1.4rem; margin-bottom:1rem ;}
+    .pdimg{max-width: 30%;  } 
+}

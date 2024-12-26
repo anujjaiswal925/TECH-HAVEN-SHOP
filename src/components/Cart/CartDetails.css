@@ -1,0 +1,20 @@
+.cdh2{text-align: center; margin: 2rem 0 2rem 0; text-decoration: underline; font-size: 1.8rem; font-weight: 800; font-family: sans-serif; }
+.cdimgdiv{ padding: 3rem;}
+.cdimgdiv img{max-width: 40%; height: auto;}
+.cdtextdiv{padding: 5rem ; text-align: center;}
+.cdp{font-size: 2rem; font-weight: 600;}
+.cdplink{font-size: 1.2rem;}
+
+.ccalldiv{border: 2px solid #d3d2d2; border-radius: 10px; padding: 1rem; margin-bottom: 10px;  }
+.ccimgdiv {text-align: center; padding: 1rem; }
+.ccimgdiv .ccimg{max-width: 70%; height: auto; }
+.ccbutton {display: flex; line-height: 10px;  }
+.ccplus{  font-size: 1.2rem; margin: 0; line-height: 0; }
+.ccnumber{margin: 1rem 0; padding: 0 10px; font-size: 1.5rem;}
+.ccminus{ font-size: 1.2rem; line-height: 1rem;}
+.ccremove{ color: #fa0303; line-height: 1rem; cursor: pointer; padding: 10px 0 0 0;}
+
+
+
+
+

@@ -1,0 +1,14 @@
+.headernav {
+    background-color: #dfc784fd;
+}
+
+.headerimg {
+    width: 70px;
+}
+
+#navbar {
+    z-index: 1;
+    position: sticky;
+    top: 0;
+}
+.carticon{margin-top: 10px; color: rgb(12, 245, 4);}
